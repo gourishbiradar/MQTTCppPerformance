@@ -19,3 +19,7 @@ The logs created on both the client and server folder can be used to test the pe
 
 # Further reading
 https://github.com/redboltz/mqtt_cpp is a good place to learn a more modern approach of mqtt
+https://mosquitto.org/documentation/ is the documentation required to learn all about mosquitto
+
+# Requests
+Please contribute to the mosquitto organization it's open source and the community is active in terms of updating their software
